@@ -22,7 +22,7 @@ It runs in DOS or DOSBox emulation.
 ```bash
 git clone https://github.com/erezlahav/8086-assembly-project.git
 cd 8086-assembly-project
-
+\\\
 
 
 ## Run the Game
