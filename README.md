@@ -16,6 +16,19 @@ It runs in DOS or DOSBox emulation.
 - [DOSBox](https://www.dosbox.com/) (for running the game)
 - Turbo Assembler (TASM) and Turbo Linker (TLINK) (for compiling source code)
 
+
+## Run the Game
+
+To launch the game easily:
+
+1. Make sure [DOSBox](https://www.dosbox.com/) is installed and added to your system `PATH`.
+
+2. Run the game using the included `run.bat` script:
+
+```bat
+run.bat
+
+
 ---
 
 ### Clone the repository
