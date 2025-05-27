@@ -47,27 +47,27 @@ DATASEG
 	Palette 	db 400h dup (0)
 	
 ;bmp pictures variebels
-	Net 	db 'Net.bmp' ,0
-	goalkeeper db 'keeper.bmp' , 0
-	diveleft db 'dlgk.bmp' , 0
-	diveright db 'drgk.bmp' , 0
-	diveRightLow db 'drgkl.bmp' , 0
-	diveLeftLow db 'dlgkl.bmp' , 0
-	FirstPlayer db 'firstP.bmp' , 0
-	SecondPlayer db 'SecondP.bmp' , 0
-	ThirdPlayer db 'ThirdP.bmp' , 0
-	FourthPlayer db 'FourthP.bmp' , 0
-	FifthPlayer db 'FifthP.bmp' , 0 
-	ball db 'eball.bmp' , 0
+	Net 	db 'images\Net.bmp' ,0
+	goalkeeper db 'images\keeper.bmp' , 0
+	diveleft db 'images\dlgk.bmp' , 0
+	diveright db 'images\drgk.bmp' , 0
+	diveRightLow db 'images\drgkl.bmp' , 0
+	diveLeftLow db 'images\dlgkl.bmp' , 0
+	FirstPlayer db 'images\firstP.bmp' , 0
+	SecondPlayer db 'images\SecondP.bmp' , 0
+	ThirdPlayer db 'images\ThirdP.bmp' , 0
+	FourthPlayer db 'images\FourthP.bmp' , 0
+	FifthPlayer db 'images\FifthP.bmp' , 0 
+	ball db 'images\eball.bmp' , 0
 	ballBackround db 289 dup(?)
-	Goal db 'Goal.bmp' , 0
-	Miss db 'Miss.bmp' , 0
-	startScreen db 'start.bmp' , 0
-	startbutton db 'button.bmp' , 0
-	Score db 'Score.bmp' , 0
-	Green db 'Green.bmp' , 0
-	Red db 'Red.bmp' , 0
-	GameOver db 'GameOver.bmp' , 0
+	Goal db 'images\Goal.bmp' , 0
+	Miss db 'images\Miss.bmp' , 0
+	startScreen db 'images\start.bmp' , 0
+	startbutton db 'images\button.bmp' , 0
+	Score db 'images\Score.bmp' , 0
+	Green db 'images\Green.bmp' , 0
+	Red db 'images\Red.bmp' , 0
+	GameOver db 'images\GameOver.bmp' , 0
 	
 	
 	CurrScorePos dw ?
