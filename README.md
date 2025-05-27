@@ -19,10 +19,10 @@ It runs in DOS or DOSBox emulation.
 
 ### Clone the repository
 
-```bash
+
 git clone https://github.com/erezlahav/8086-assembly-project.git
 cd 8086-assembly-project
-```bash
+
 
 
 ## Run the Game
@@ -38,7 +38,5 @@ run.bat
 
 
 
-
----
 
 
